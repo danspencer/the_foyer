@@ -1,2 +1,2 @@
-# the_foyer
-Responsive bootstrap landing page used to access various applications on the site.
+# The Foyer
+Responsive bootstrap landing page used to view various external/internal applications/sites.
